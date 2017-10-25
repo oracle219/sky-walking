@@ -1,2 +1,3 @@
 org.skywalking.apm.collector.storage.elasticsearch.StorageElasticSearchModuleDefine
 org.skywalking.apm.collector.storage.h2.StorageH2ModuleDefine
+org.skywalking.apm.collector.storage.shardingjdbc.StorageShardingjdbcModuleDefine
